@@ -26,37 +26,60 @@ These contributions provide valuable insights and methodologies for evaluating a
 ## Expetiment Results
 **[1] A New Multi-Metric Evaluation Framework**
 
-Acc Compare
+**Acc Compare**
+
 ![Figures/compare_Acc.jpg](Figures/compare_Acc.jpg)
-F1 Compare
+
+**F1 Compare**
+
 ![Figures/compare_F1.jpg](Figures/compare_F1.jpg)
-Reproducibility
+
+**Reproducibility**
+
 ![Figures/Reproducibility.jpg](Figures/Reproducibility.jpg)
-Usable Performance
+
+**Usable Performance**
+
 ![Figures/Usable_Performance.png](Figures/Usable_Performance.png)
 
 **[2] Performance Comparative Experiments (Out-of-Domain vs Theoretical)**
-PLAN Out of Domain Performance Acc
+
+**PLAN Out of Domain Performance Acc**
+
 ![Figures/PLAN Out of Domain Performance_Acc.png](Figures/PLAN_Out_of_Domain_Performance_Acc.png)
-PLAN Out of Domain Performance F1
+
+**PLAN Out of Domain Performance F1**
+
 ![Figures/PLAN Out of Domain Performance_F1.png](Figures/PLAN_Out_of_Domain_Performance_F1.png)
-PLAN-out-of-domain statistic
+
+**PLAN-out-of-domain statistic**
+
 ![Figures/PLAN-out-of-domain.png](Figures/PLAN-out-of-domain.png)
 
 **[3] Datasets Research**
-Twitter 15
+
+**Twitter 15**
+
 ![Figures/twitter15_keywords.png](Figures/twitter15_keywords.png)
 ![Figures/twitter15_wordcloud.png](Figures/twitter15_wordcloud.png)
-Twitter 16
+
+**Twitter 16**
+
 ![Figures/twitter16_keywords.png](Figures/twitter16_keywords.png)
 ![Figures/twitter16_wordcloud.png](Figures/twitter16_wordcloud.png)
-Pheme
+
+**Pheme**
+
 ![Figures/pheme_keywords.png](Figures/pheme_keywords.png)
 ![Figures/pheme_wordcloud.png](Figures/pheme_wordcloud.png)
-Weibo
+
+**Weibo**
+
 ![Figures/weibo_keywords_frequency.png](Figures/weibo_keywords_frequency.png)
 ![Figures/weibo_wordcloud.png](Figures/weibo_wordcloud.png)
-Vn Graph
+
+**Vn Graph**
+
 ![Figures/Venn_Diagram.png](Figures/Venn_Diagram.png)
 
 ## Discussion Points
