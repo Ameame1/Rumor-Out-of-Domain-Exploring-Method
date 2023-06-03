@@ -34,9 +34,10 @@ These contributions provide valuable insights and methodologies for evaluating a
 ![Figures/Usable Performance.png](Figures/Usable Performance.png)
 
 **[2] Performance Comparative Experiments (Out-of-Domain vs Theoretical)**
-![Figures/PLAN Out of Domain Performance_Acc.png](Figures/PLAN Out of Domain Performance_Acc.png)
-![Figures/PLAN Out of Domain Performance_F1.png](Figures/PLAN Out of Domain Performance_F1.png)
+![Figures/PLAN Out of Domain Performance_Acc.png](Figures/PLAN_Out_of_Domain_Performance_Acc.png)
+![Figures/PLAN Out of Domain Performance_F1.png](Figures/PLAN_Out_of_Domain_Performance_F1.png)
 ![Figures/PLAN-out-of-domain.png](Figures/PLAN-out-of-domain.png)
+
 **[3] Datasets Research**
 ![Figures/twitter15_keywords.png](Figures/twitter15_keywords.png)
 ![Figures/twitter15_wordcloud.png](Figures/twitter15_wordcloud.png)
