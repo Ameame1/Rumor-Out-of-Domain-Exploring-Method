@@ -26,27 +26,37 @@ These contributions provide valuable insights and methodologies for evaluating a
 ## Expetiment Results
 **[1] A New Multi-Metric Evaluation Framework**
 
-![Figures/average_accuracy_f1.png](Figures/average_accuracy_f1.png)
+Acc Compare
 ![Figures/compare_Acc.jpg](Figures/compare_Acc.jpg)
+F1 Compare
 ![Figures/compare_F1.jpg](Figures/compare_F1.jpg)
+Reproducibility
 ![Figures/Reproducibility.jpg](Figures/Reproducibility.jpg)
-![Figures/train_test.jpg](Figures/train_test.jpg)
+Usable Performance
 ![Figures/Usable_Performance.png](Figures/Usable_Performance.png)
 
 **[2] Performance Comparative Experiments (Out-of-Domain vs Theoretical)**
+PLAN Out of Domain Performance Acc
 ![Figures/PLAN Out of Domain Performance_Acc.png](Figures/PLAN_Out_of_Domain_Performance_Acc.png)
+PLAN Out of Domain Performance F1
 ![Figures/PLAN Out of Domain Performance_F1.png](Figures/PLAN_Out_of_Domain_Performance_F1.png)
+PLAN-out-of-domain statistic
 ![Figures/PLAN-out-of-domain.png](Figures/PLAN-out-of-domain.png)
 
 **[3] Datasets Research**
+Twitter 15
 ![Figures/twitter15_keywords.png](Figures/twitter15_keywords.png)
 ![Figures/twitter15_wordcloud.png](Figures/twitter15_wordcloud.png)
+Twitter 16
 ![Figures/twitter16_keywords.png](Figures/twitter16_keywords.png)
 ![Figures/twitter16_wordcloud.png](Figures/twitter16_wordcloud.png)
+Pheme
 ![Figures/pheme_keywords.png](Figures/pheme_keywords.png)
 ![Figures/pheme_wordcloud.png](Figures/pheme_wordcloud.png)
+Weibo
 ![Figures/weibo_keywords_frequency.png](Figures/weibo_keywords_frequency.png)
 ![Figures/weibo_wordcloud.png](Figures/weibo_wordcloud.png)
+Vn Graph
 ![Figures/Venn_Diagram.png](Figures/Venn_Diagram.png)
 
 ## Discussion Points
@@ -67,4 +77,10 @@ In future studies, it is crucial to incorporate additional state-of-the-art rumo
 Expanding the range of datasets used for testing is another important aspect to enhance the credibility of our approach. By filtering more anomalous datasets and conducting thorough analyses, we can refine the accuracy and reliability of our methodology.
 
 By addressing these considerations in future research, we can further validate and strengthen the applicability and performance of our proposed methodology, ultimately advancing the field of rumor detection and enabling more effective handling of rumors in various contexts.
+
+## Rumor Research
+https://github.com/Ameame1/rumor-detection
+## Author
+### Ame Liu
+[<img src="Figures/Email.png" alt="image" width="">](mailto:22910358@student.uwa.edu.au)
 
