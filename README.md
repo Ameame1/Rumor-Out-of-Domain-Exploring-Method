@@ -31,7 +31,7 @@ These contributions provide valuable insights and methodologies for evaluating a
 ![Figures/compare_F1.jpg](Figures/compare_F1.jpg)
 ![Figures/Reproducibility.jpg](Figures/Reproducibility.jpg)
 ![Figures/train_test.jpg](Figures/train_test.jpg)
-![Figures/Usable Performance.png](Figures/Usable Performance.png)
+![Figures/Usable Performance.png](Figures/Usable_Performance.png)
 
 **[2] Performance Comparative Experiments (Out-of-Domain vs Theoretical)**
 ![Figures/PLAN Out of Domain Performance_Acc.png](Figures/PLAN_Out_of_Domain_Performance_Acc.png)
