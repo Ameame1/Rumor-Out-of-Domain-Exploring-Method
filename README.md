@@ -103,6 +103,14 @@ Expanding the range of datasets used for testing is another important aspect to 
 
 By addressing these considerations in future research, we can further validate and strengthen the applicability and performance of our proposed methodology, ultimately advancing the field of rumor detection and enabling more effective handling of rumors in various contexts.
 
+## Test
+`Graph Tool.ipynb` contains multiple types of graphs.
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
 ## Rumor Research
 https://github.com/Ameame1/rumor-detection
 ## Author
