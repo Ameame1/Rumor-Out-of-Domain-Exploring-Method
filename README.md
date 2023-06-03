@@ -1,4 +1,6 @@
 # Exploring Out-of-Domain Performance in Rumor Detection Models: Comprehensive Evaluation Framework and Novel Dataset Filtering Methodologies
+[![Figures/UWA.png](Figures/UWA.png)](https://www.rdi.uwa.edu.au/innovations-in-action)
+## Supervised by [**___Dr. JinHong___**](https://research-repository.uwa.edu.au/en/persons/jin-hong)
 
 ## Abstract
 In the digital age, the rapid dissemination of information can sometimes lead to the spread of false rumors, potentially causing harm to individuals and communities. Hence, the importance of rumor detection is crucial. Current evaluation methods for rumor detection models often focus on a narrow range of performance metrics and lack a comprehensive assessment of real-world usability. In this study, we proposed a more exhaustive evaluation framework and presented a novel methodology for filtering datasets to optimize model performance.
