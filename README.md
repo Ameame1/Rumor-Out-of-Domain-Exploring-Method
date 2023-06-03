@@ -14,7 +14,7 @@ Future research should incorporate a broader range of rumor detection models and
 The contributions of this paper are as follows:
 
 1. **A New Multi-Metric Evaluation Framework**: We propose a comprehensive evaluation method using radar charts, incorporating six different metrics: speed, in-domain performance, out-of-domain performance, simplicity, reproducibility, and data processibility. This framework provides a robust approach for assessing the effectiveness of rumor detection models, surpassing traditional evaluation metrics.
-![Figures/heptagonal.png](..%2F..%2Frumor%2FEssay%20Graph%2Fheptagonal.png)
+![Figures/heptagonal.png](Figures/heptagonal.png)
 2. **Performance Comparative Experiments (Out-of-Domain vs Theoretical)**:Through extensive training and evaluation of the PLAN model with diverse datasets, we identify limitations in its generalizability and adaptability to unfamiliar datasets. However, the model achieves a remarkable average accuracy rate of approximately 50% on out-of-domain datasets.
 
 3. **Two Dataset Filtering Methods**:
@@ -26,27 +26,27 @@ These contributions provide valuable insights and methodologies for evaluating a
 ## Expetiment Results
 **[1] A New Multi-Metric Evaluation Framework**
 
-![Figures/average_accuracy_f1.png](..%2F..%2Frumor%2FEssay%20Graph%2Faverage_accuracy_f1.png)
-![Figures/compare_Acc.jpg](..%2F..%2Frumor%2FEssay%20Graph%2Fcompare_Acc.jpg)
-![Figures/compare_F1.jpg](..%2F..%2Frumor%2FEssay%20Graph%2Fcompare_F1.jpg)
-![Figures/Reproducibility.jpg](..%2F..%2Frumor%2FEssay%20Graph%2FReproducibility.jpg)
-![Figures/train_test.jpg](..%2F..%2Frumor%2FEssay%20Graph%2Ftrain_test.jpg)
-![Figures/Usable Performance.png](..%2F..%2Frumor%2FEssay%20Graph%2FUsable%20Performance.png)
+![Figures/average_accuracy_f1.png](Figures/average_accuracy_f1.png)
+![Figures/compare_Acc.jpg](Figures/compare_Acc.jpg)
+![Figures/compare_F1.jpg](Figures/compare_F1.jpg)
+![Figures/Reproducibility.jpg](Figures/Reproducibility.jpg)
+![Figures/train_test.jpg](Figures/train_test.jpg)
+![Figures/Usable Performance.png](Figures/Usable Performance.png)
 
 **[2] Performance Comparative Experiments (Out-of-Domain vs Theoretical)**
-![Figures/PLAN Out of Domain Performance_Acc.png](..%2F..%2Frumor%2FEssay%20Graph%2FPLAN%20Out%20of%20Domain%20Performance_Acc.png)
-![Figures/PLAN Out of Domain Performance_F1.png](..%2F..%2Frumor%2FEssay%20Graph%2FPLAN%20Out%20of%20Domain%20Performance_F1.png)
+![Figures/PLAN Out of Domain Performance_Acc.png](Figures/PLAN Out of Domain Performance_Acc.png)
+![Figures/PLAN Out of Domain Performance_F1.png](Figures/PLAN Out of Domain Performance_F1.png)
 ![Figures/PLAN-out-of-domain.png](Figures/PLAN-out-of-domain.png)
 **[3] Datasets Research**
-![Figures/twitter15_keywords.png](..%2F..%2Frumor%2FEssay%20Graph%2Ftwitter15_keywords.png)
-![Figures/twitter15_wordcloud.png](..%2F..%2Frumor%2FEssay%20Graph%2Ftwitter15_wordcloud.png)
-![Figures/twitter16_keywords.png](..%2F..%2Frumor%2FEssay%20Graph%2Ftwitter16_keywords.png)
-![Figures/twitter16_wordcloud.png](..%2F..%2Frumor%2FEssay%20Graph%2Ftwitter16_wordcloud.png)
-![Figures/pheme_keywords.png](..%2F..%2Frumor%2FEssay%20Graph%2Fpheme_keywords.png)
-![Figures/pheme_wordcloud.png](..%2F..%2Frumor%2FEssay%20Graph%2Fpheme_wordcloud.png)
-![Figures/weibo_keywords_frequency.png](..%2F..%2Frumor%2FEssay%20Graph%2Fweibo_keywords_frequency.png)
-![Figures/weibo_wordcloud.png](..%2F..%2Frumor%2FEssay%20Graph%2Fweibo_wordcloud.png)
-![Figures/Venn_Diagram.png](..%2F..%2Frumor%2FEssay%20Graph%2FVenn_Diagram.png)
+![Figures/twitter15_keywords.png](Figures/twitter15_keywords.png)
+![Figures/twitter15_wordcloud.png](Figures/twitter15_wordcloud.png)
+![Figures/twitter16_keywords.png](Figures/twitter16_keywords.png)
+![Figures/twitter16_wordcloud.png](Figures/twitter16_wordcloud.png)
+![Figures/pheme_keywords.png](Figures/pheme_keywords.png)
+![Figures/pheme_wordcloud.png](Figures/pheme_wordcloud.png)
+![Figures/weibo_keywords_frequency.png](Figures/weibo_keywords_frequency.png)
+![Figures/weibo_wordcloud.png](Figures/weibo_wordcloud.png)
+![Figures/Venn_Diagram.png](Figures/Venn_Diagram.png)
 
 ## Discussion Points
 - Despite our thorough implementation of the proposed methods in the three rumor detection models and the validation of their feasibility, it is important to acknowledge the limitations of our study. We were only able to perform anomaly dataset screening and determine the best training set using the PLAN model. This limited scope is insufficient to provide a comprehensive assessment of our methods' effectiveness.
